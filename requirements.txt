@@ -1,0 +1,6 @@
+discord.py
+from discord.ext import commands, tasks
+asyncio
+requests
+from discord.utils import get
+import discord.utils
